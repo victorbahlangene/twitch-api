@@ -22,7 +22,7 @@ document.getElementById("all").addEventListener("click",() => {
 });
 
 // adding a second channel
-//ign
+//Ign
 document.getElementById("all").addEventListener("click", () => {
 
     let url = "https://wind-bow.glitch.me/twitch-api/channels/ign"
